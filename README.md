@@ -75,3 +75,5 @@ Driving-Style-Detection
 
 ## 📌 Purpose
 This project demonstrates how data analysis and AI techniques can be used to monitor driver behavior and improve road safety by identifying risky driving patterns.
+## Live Demo
+Click here to view the app - https://time-series-based-driving-style-classification.streamlit.app/
